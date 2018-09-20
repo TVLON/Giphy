@@ -1,0 +1,21 @@
+body {
+	background-color:rgb(204, 202, 202);
+}
+	.container {
+	background-color: rgb(121, 33, 33);
+}
+
+#jumbotron {
+	background-color: rgba(46, 5, 5, 0.884);
+	height: 200px;
+}
+
+.display-4 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: rgb(204, 202, 202);
+}
+
+.lead {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color:rgb(204, 202, 202);
+}
